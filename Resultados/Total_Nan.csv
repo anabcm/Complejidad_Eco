@@ -1,0 +1,328 @@
+,0
+Code_INEGI,0
+Municipio,0
+Code_ent,0
+ANUIES_Education,4
+ANUIES_Arts and Humanities,4
+ANUIES_social sciences and law,4
+ANUIES_Business Administration,4
+"ANUIES_natural sciences, mathematics and statistics",4
+ANUIES_Technology of the information and communication,4
+"ANUIES_Engineering, manufacturing and construction",4
+ANUIES_Health Sciences,4
+ANUIES_Services,4
+ANUIES_Agriculture and Veterinary,4
+ENOE_Explotación de Bovinos,1932
+ENOE_Pesca,2388
+ENOE_Minería de Minerales Metálicos,2402
+ENOE_Minería de Minerales no Metálicos,2399
+ENOE_Servicios Relacionados con la Minería,2454
+"ENOE_Captación, Tratamiento y Suministro de Agua",2324
+ENOE_Edificación Residencial,1873
+"ENOE_Cimentaciones, Montaje de Estructuras Prefabricadas y Trabajos en Exteriores",2250
+ENOE_Instalaciones y Equipamiento en Construcciones,1768
+ENOE_Industria Alimentaria,1715
+ENOE_Industria de las Bebidas y del Tabaco,2221
+ENOE_Fabricación de Insumos Textiles y Acabado de Textiles,2349
+"ENOE_Fabricación de Productos Textiles, Excepto Prendas de Vestir",2233
+ENOE_Fabricación de Prendas de Vestir,2055
+"ENOE_Curtido y Acabado de Cuero y Piel, y Fabricación de Productos de Cuero, Piel y Materiales Sucedáneos",2381
+ENOE_Industria de la Madera,2310
+ENOE_Industria del Papel,2323
+ENOE_Impresión e Industrias Conexas,2333
+ENOE_Fabricación de Productos Derivados del Petróleo y del Carbón,2412
+ENOE_Industria Química,2291
+ENOE_Industria del Plástico y del Hule,2264
+ENOE_Fabricación de Productos a Base de Minerales no Metálicos,2218
+ENOE_Industrias Metálicas Básicas,2361
+ENOE_Fabricación de Productos Metálicos,2084
+ENOE_Fabricación de Maquinaria y Equipo,2364
+"ENOE_Fabricación de Equipo de Computación, Comunicación, Medición y de otros Equipos, Componentes y Accesorios Electrónicos",2375
+"ENOE_Fabricación de Accesorios, Aparatos Eléctricos y Equipo de Generación de Energía Eléctrica",2342
+ENOE_Fabricación de Equipo de Transporte y Partes para Vehículos Automotores,2134
+"ENOE_Fabricación de Muebles, Colchones y Persianas",2145
+ENOE_3380,2278
+ENOE_Otras Industrias Manufactureras,2457
+ENOE_Comercio al por Menor de Abarrotes y Alimentos,1618
+"ENOE_Comercio al por Menor de Bebidas, Hielo y Tabaco",2085
+"ENOE_Comercio al por Menor de Productos Textiles, Excepto Ropa",2009
+"ENOE_Comercio al por Menor de Ropa, Bisutería y Accesorios de Vestir",2243
+ENOE_Comercio al por Menor de Artículos para el Cuidado de la Salud,2173
+ENOE_Comercio al por Menor de Artículos de Perfumería y Joyería,2068
+ENOE_Comercio al por Menor de Artículos para el Esparcimiento,2338
+ENOE_Comercio al por Menor de Muebles para el Hogar y otros Enseres Domésticos,2134
+"ENOE_Comercio al por Menor de Mobiliario, Equipo y Accesorios de Cómputo, Teléfonos y otros Aparatos de Comunicación",2269
+"ENOE_Comercio al por Menor de Artículos de Ferretería, Tlapalería y Vidrios",2159
+ENOE_Comercio al por Menor de Automóviles y Camionetas,2092
+"ENOE_Comercio al por Menor de Partes y Refacciones para Automóviles, Camionetas y Camiones",2444
+ENOE_Servicios Relacionados con el Transporte Aéreo,2334
+ENOE_Banca Múltiple,2293
+ENOE_Instituciones Financieras de Fomento Económico,2279
+ENOE_Alquiler de Artículos para el Hogar y Personales,2323
+ENOE_Servicios Legales,2110
+"ENOE_Servicios de Contabilidad, Auditoría y Servicios Relacionados",2432
+"ENOE_Servicios de Arquitectura, Ingeniería y Actividades Relacionadas",2367
+ENOE_Diseño Especializado,2380
+ENOE_Servicios de Administración de Negocios,2197
+ENOE_Servicios de Empleo,2191
+"ENOE_Servicios de Apoyo Secretarial, Fotocopiado, Cobranza, Investigación Crediticia y Similares",2198
+ENOE_Agencias de Viajes y Servicios de Reservaciones,2399
+"ENOE_Escuelas de Educación Básica, Media y para Necesidades Especiales",2207
+ENOE_Escuelas de Educación Técnica Superior,1816
+ENOE_Consultorios Médicos,2155
+ENOE_Consultorios Dentales,2237
+ENOE_Hospitales Generales,2325
+ENOE_Hospitales Psiquiátricos y para el Tratamiento por Adicción,2149
+"ENOE_Residencias con Cuidados de Enfermeras para Enfermos Convalecientes, en Rehabilitación, Incurables y Terminales",2428
+ENOE_Compañías y Grupos de Espectáculos Artísticos y Culturales,2282
+ENOE_Deportistas y Equipos Deportivos Profesionales,2430
+"ENOE_Agentes y Representantes de Artistas, Deportistas y Similares",2407
+ENOE_Parques con Instalaciones Recreativas y Casas de Juegos Electrónicos,2272
+"ENOE_Casinos, Loterías y otros Juegos de Azar",2442
+ENOE_Servicios de Preparación de Alimentos por Encargo,2439
+ENOE_Reparación y Mantenimiento de Automóviles y Camiones,1972
+ENOE_Reparación y Mantenimiento de Equipo Electrónico y de Equipo de Precisión,2069
+"ENOE_Salones y Clínicas de Belleza, Baños Públicos y Bolerías",2017
+ENOE_Lavanderías y Tintorerías,2411
+ENOE_Órganos Legislativos,2429
+ENOE_Administración Pública en General,2131
+ENOE_Regulación y Fomento del Desarrollo Económico,2097
+ENOE_Impartición de Justicia y Mantenimiento de la Seguridad y el Orden Público,1884
+ENOE_Servicios Relacionados con el Transporte por Ferrocarril,2449
+ENOE_Servicios Funerarios y Administración de Cementerios,2418
+ENOE_Suministro de Gas por Ductos al Consumidor Final,2459
+ENOE_Uniones de Crédito e Instituciones de Ahorro,2451
+"ENOE_Servicios Comunitarios de Alimentación, Refugio y Emergencia",2421
+"ENOE_Promotores de Espectáculos Artísticos, Culturales, Deportivos y Similares",2437
+"ENOE_Alquiler de Automóviles, Camiones y otros Transportes Terrestres",2443
+ENOE_Explotación de Porcinos,2438
+"ENOE_Residencias para el Cuidado de Personas con Problemas de Retardo Mental, Trastorno Mental y Adicciones",2442
+"ENOE_Servicios de Investigación, Protección y Seguridad",2447
+"ENOE_Servicios de Ambulancias, de Bancos de Órganos y otros Servicios Auxiliares al Tratamiento Médico",2468
+ENOE_Minería de Carbón Mineral,2462
+"ENOE_Artistas, Escritores y Técnicos Independientes",2465
+ENOE_Servicios de Orientación y Trabajo Social,2429
+ENOE_Servicios Combinados de Apoyo en Instalaciones,2465
+ENOE_Estacionamientos y Pensiones para Vehículos Automotores,2462
+poblacion_alfabeta,3
+Censo_Undefined,3
+Censo_Preschool or Kindergarden,3
+Censo_Primary School,3
+Censo_Middle School,3
+Censo_High School or General Baccalaureate,3
+Censo_Technical Baccalaureate or Normal Basic Education,116
+"Censo_Technical or Comercial Studies, and Finished Primary School",576
+"Censo_Technical or Comercial Studies, and Finished Middle School",305
+"Censo_Technical or Comercial Studies, and Finished High School",141
+"Censo_Normal Studies, and Finished Primary or Middle School",599
+Censo_Normal Bachelor's Degree,75
+Censo_Bachelor's Degree,4
+Censo_Specialty,549
+Censo_Master Degree,181
+Censo_PhD,843
+Censo_No Specified,187
+"IMSS_Agricultura, ganadería, silvicultura, pesca y caza",1195
+IMSS_Industrias extractivas,1923
+IMSS_Industrias de transformación,1428
+IMSS_Industria de la construcción,622
+"IMSS_Industria eléctrica, y captación y suministro de agua potable",1906
+IMSS_Comercio,832
+IMSS_Transportes y comunicaciones,1261
+"IMSS_Servicios para empresas, personas y el hogar",983
+IMSS_Servicios sociales y comunales,1264
+economico_UE_sin_ventas_112,0
+economico_UE_con_ventas_112,0
+economico_UE_sin_ventas_114,0
+economico_UE_con_ventas_114,0
+economico_UE_sin_ventas_115,0
+economico_UE_con_ventas_115,0
+economico_UE_sin_ventas_212,0
+economico_UE_con_ventas_212,0
+economico_UE_sin_ventas_213,1027
+economico_UE_con_ventas_213,1027
+economico_UE_sin_ventas_221,0
+economico_UE_con_ventas_221,0
+economico_UE_sin_ventas_236,0
+economico_UE_con_ventas_236,0
+economico_UE_sin_ventas_237,0
+economico_UE_con_ventas_237,0
+economico_UE_sin_ventas_238,0
+economico_UE_con_ventas_238,0
+economico_UE_sin_ventas_311,0
+economico_UE_con_ventas_311,0
+economico_UE_sin_ventas_312,0
+economico_UE_con_ventas_312,0
+economico_UE_sin_ventas_313,0
+economico_UE_con_ventas_313,0
+economico_UE_sin_ventas_314,0
+economico_UE_con_ventas_314,0
+economico_UE_sin_ventas_315,0
+economico_UE_con_ventas_315,0
+economico_UE_sin_ventas_316,0
+economico_UE_con_ventas_316,0
+economico_UE_sin_ventas_321,0
+economico_UE_con_ventas_321,0
+economico_UE_sin_ventas_322,0
+economico_UE_con_ventas_322,0
+economico_UE_sin_ventas_323,0
+economico_UE_con_ventas_323,0
+economico_UE_sin_ventas_324,190
+economico_UE_con_ventas_324,190
+economico_UE_sin_ventas_325,0
+economico_UE_con_ventas_325,0
+economico_UE_sin_ventas_326,0
+economico_UE_con_ventas_326,0
+economico_UE_sin_ventas_327,0
+economico_UE_con_ventas_327,0
+economico_UE_sin_ventas_331,17
+economico_UE_con_ventas_331,17
+economico_UE_sin_ventas_332,0
+economico_UE_con_ventas_332,0
+economico_UE_sin_ventas_333,0
+economico_UE_con_ventas_333,0
+economico_UE_sin_ventas_334,55
+economico_UE_con_ventas_334,55
+economico_UE_sin_ventas_335,20
+economico_UE_con_ventas_335,20
+economico_UE_sin_ventas_336,0
+economico_UE_con_ventas_336,0
+economico_UE_sin_ventas_337,0
+economico_UE_con_ventas_337,0
+economico_UE_sin_ventas_339,0
+economico_UE_con_ventas_339,0
+economico_UE_sin_ventas_431,0
+economico_UE_con_ventas_431,0
+economico_UE_sin_ventas_432,0
+economico_UE_con_ventas_432,0
+economico_UE_sin_ventas_433,0
+economico_UE_con_ventas_433,0
+economico_UE_sin_ventas_434,0
+economico_UE_con_ventas_434,0
+economico_UE_sin_ventas_435,0
+economico_UE_con_ventas_435,0
+economico_UE_sin_ventas_436,0
+economico_UE_con_ventas_436,0
+economico_UE_sin_ventas_437,217
+economico_UE_con_ventas_437,217
+economico_UE_sin_ventas_461,0
+economico_UE_con_ventas_461,0
+economico_UE_sin_ventas_462,0
+economico_UE_con_ventas_462,0
+economico_UE_sin_ventas_463,0
+economico_UE_con_ventas_463,0
+economico_UE_sin_ventas_464,0
+economico_UE_con_ventas_464,0
+economico_UE_sin_ventas_465,0
+economico_UE_con_ventas_465,0
+economico_UE_sin_ventas_466,0
+economico_UE_con_ventas_466,0
+economico_UE_sin_ventas_467,0
+economico_UE_con_ventas_467,0
+economico_UE_sin_ventas_468,0
+economico_UE_con_ventas_468,0
+economico_UE_sin_ventas_469,77
+economico_UE_con_ventas_469,77
+economico_UE_sin_ventas_483,292
+economico_UE_con_ventas_483,292
+economico_UE_sin_ventas_484,0
+economico_UE_con_ventas_484,0
+economico_UE_sin_ventas_485,0
+economico_UE_con_ventas_485,0
+economico_UE_sin_ventas_487,0
+economico_UE_con_ventas_487,0
+economico_UE_sin_ventas_488,0
+economico_UE_con_ventas_488,0
+economico_UE_sin_ventas_491,0
+economico_UE_con_ventas_491,0
+economico_UE_sin_ventas_492,0
+economico_UE_con_ventas_492,0
+economico_UE_sin_ventas_493,0
+economico_UE_con_ventas_493,0
+economico_UE_sin_ventas_511,0
+economico_UE_con_ventas_511,0
+economico_UE_sin_ventas_512,0
+economico_UE_con_ventas_512,0
+economico_UE_sin_ventas_515,0
+economico_UE_con_ventas_515,0
+economico_UE_sin_ventas_517,0
+economico_UE_con_ventas_517,0
+economico_UE_sin_ventas_518,138
+economico_UE_con_ventas_518,138
+economico_UE_sin_ventas_519,0
+economico_UE_con_ventas_519,0
+economico_UE_sin_ventas_522,0
+economico_UE_con_ventas_522,0
+economico_UE_sin_ventas_523,29
+economico_UE_con_ventas_523,29
+economico_UE_sin_ventas_524,0
+economico_UE_con_ventas_524,0
+economico_UE_sin_ventas_531,0
+economico_UE_con_ventas_531,0
+economico_UE_sin_ventas_532,0
+economico_UE_con_ventas_532,0
+economico_UE_sin_ventas_533,1358
+economico_UE_con_ventas_533,1358
+economico_UE_sin_ventas_541,0
+economico_UE_con_ventas_541,0
+economico_UE_sin_ventas_551,264
+economico_UE_con_ventas_551,264
+economico_UE_sin_ventas_561,0
+economico_UE_con_ventas_561,0
+economico_UE_sin_ventas_562,0
+economico_UE_con_ventas_562,0
+economico_UE_sin_ventas_611,0
+economico_UE_con_ventas_611,0
+economico_UE_sin_ventas_621,0
+economico_UE_con_ventas_621,0
+economico_UE_sin_ventas_622,0
+economico_UE_con_ventas_622,0
+economico_UE_sin_ventas_623,0
+economico_UE_con_ventas_623,0
+economico_UE_sin_ventas_624,0
+economico_UE_con_ventas_624,0
+economico_UE_sin_ventas_711,0
+economico_UE_con_ventas_711,0
+economico_UE_sin_ventas_712,0
+economico_UE_con_ventas_712,0
+economico_UE_sin_ventas_713,0
+economico_UE_con_ventas_713,0
+economico_UE_sin_ventas_721,0
+economico_UE_con_ventas_721,0
+economico_UE_sin_ventas_722,0
+economico_UE_con_ventas_722,0
+economico_UE_sin_ventas_811,0
+economico_UE_con_ventas_811,0
+economico_UE_sin_ventas_812,0
+economico_UE_con_ventas_812,0
+economico_UE_sin_ventas_813,0
+economico_UE_con_ventas_813,0
+economico_UE_sin_ventas_482,2284
+economico_UE_con_ventas_482,2284
+economico_UE_sin_ventas_211,2045
+economico_UE_con_ventas_211,2045
+economico_UE_sin_ventas_481,287
+economico_UE_con_ventas_481,287
+economico_UE_sin_ventas_486,1456
+economico_UE_con_ventas_486,1456
+economico_UE_sin_ventas_521,2453
+economico_UE_con_ventas_521,2453
+Disponen_energía_eléctrica,0
+No_disponen_energía_eléctrica,30
+disponen_energía_eléctrica_No_esp,1321
+Disponen_agua_entubada,0
+No_disponen_agua_entubada,46
+disponen_agua_entubada_no_esp,1297
+Disponen_drenaje,0
+No_disponen_drenaje,8
+disponen_drenaje_no_esp,1251
+CONAPO_IM_2020,0
+CONAPO_GM_2020,0
+conteo_aeropuertos,0
+pasajeros_2019,144
+vuelos_2019,144
+eci_2015,12
+eci_2016,11
+eci_2017,11
+eci_2018,9
+eci_2019,4
+eci_2020,4
