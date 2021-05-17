@@ -1,1 +1,1 @@
-Aqui estaran las bases de datos resultantes.
+Aqui estaran las bases de datos de salida y las imágenes
